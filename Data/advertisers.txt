@@ -1,0 +1,731 @@
+Company\Brand	Ads	Industry	Latest	First	Links
+21st Century Studios	14	Movies	2019	1994	
+7 Up	11	Soft Drinks	2001	1992	
+  Diet 7 Up	3	Soft Drinks	1992	--	
+84 Lumber	1	Building Supplies	2017	--	
+Accenture	4	Technology	2001	--	
+Acura	3	Automobiles	2016	2001	
+  Acura MDX	1	SUVs	2001	--	
+  Acura NSX	2	Sports Cars	2016	2012	
+ADT	2	Home Security	2020	2019	
+Advil	5	Pain Relief	2016	1985	
+Aflac	1	Insurance	2017	--	
+Airbnb	1	Internet Companies	2017	--	
+Alamo	2	Rental Cars	1994	1988	
+Aleve	1	Pain Relief	2006	--	
+Alfa Romeo	3	Cars	2017	--	
+Alka Seltzer	1		1991	--	
+Allstate Insurance	6	Insurance	2016	1987	
+  Esurance	4	Insurance	2016	2015	
+Always	1	Health & Beauty	2015	--	
+Amazon Retail Brands	9	Online Retailers	2021	2016	
+  Amazon Alexa	4	Virtual Assistants	2021	2018	
+  Amazon Echo	1	Audio & Sound	2016	--	
+  Amazon Prime	4	Online Streaming	2021	2018	
+American Airlines	5		2005	1980	
+American Dairy Association	1	Food & Beverage	1986	--	
+American Express	15	Credit Cards	1999	1982	
+American Heart Association	1	Health & Beauty	2007	--	
+American Petroleum Institute	1	Oil & Gas	2017	--	
+Ameriquest	4	Financial Services	2006	2005	
+Amp	1	Energy Drinks	2008	--	
+Anacin	3	Pharmaceutical	1988	1980	
+AOL	4	Internet Companies	2004	2003	
+Apartments.com	1	Real Estate	2016	--	
+ARCO	2	Oil & Gas	2005	1980	
+Armani	1	Health & Beauty	1993	--	
+AstraZeneca	1	Pharmaceutical	2016	--	
+AT&T Mobility	4	Mobile Phones	2001	--	
+Atari	2	Entertainment	1984	1983	
+Audi	15	Cars	2020	1988	
+  Audi 90 Quattro	1	Automobiles	1988	--	
+  Audi A3	2	Cars	2014	2010	
+  Audi e-tron	2	Cars	2020	2019	
+  Audi R8	2	Sports Cars	2016	2008	
+  Audi S7	1	Cars	2012	--	
+Autobytel	2	Automobiles Sales	1998	1997	
+AutoTrader.com	1	Automobiles Sales	2000	--	
+Avocados From Mexico	7	Food	2022	2015	
+AXE	3	Health & Beauty	2016	2013	
+  AXE Apollo	1	Body Wash	2013	--	
+Bai	1	Energy Drinks	2017	--	
+Bank of America	1	Banking	2014	--	
+Beats Electronics	2	Technology	2016	2014	
+Beck's	1	Beer	2013	--	
+  Beck's Sapphire	1	Beer	2013	--	
+Beer Institute	1	Beer	2006	--	
+Bell Atlantic	1		1990	--	
+Best Buy	4	Electronics Stores	2013	2002	
+Bethesda Softworks	1	Mobile Games	2017	--	
+Blackberry	1	Mobile Phones	2013	--	
+  BlackBerry 10	1	Mobile Phones	2013	--	
+Blockbuster	4	Retail Stores	2007	1999	
+BMW	8	Automobiles	2022	2000	
+  BMW i3	1	Cars	2015	--	
+  BMW X5	2	SUVs	2000	--	
+  MINI	2	Cars	2016	2011	
+    Mini Clubman	1	Cars	2016	--	
+    Mini Countryman	1	Cars	2011	--	
+Bon & Viv Spiked Seltzer	1	Alcoholic Beverages	2019	--	
+Booking com	1		2022	--	
+Breathe Right	2	Health & Beauty	1997	1996	
+Bridgestone	10	Automotive Industry	2012	2008	
+Britannica.com	1	Search Engines	2000	--	
+British Airways	1	Airline Industry	1993	--	
+Bubly Sparkling Water	1	Water	2019	--	
+Budweiser\Bud Light Brands	211	Beer	2022	1980	
+  Bud Light	117	Light Beer	2022	1983	
+    Bud Light Lime	1	Light Beer	2009	--	
+    Bud Light Platinum	1	Light Beer	2012	--	
+    Bud Light Seltzer	4	Alcoholic Beverages	2022	2020	
+      Bud Light Seltzer Lemonade	1	Alcoholic Beverages	2021	--	
+  Budweiser	118	Beer	2022	1980	
+    Bud Ice	1	Beer	1996	--	
+    Budweiser Black Crown	2	Beer	2013	--	
+    Budweiser Select	3	Beer	2010	2005	
+Buffalo Wild Wings	1	Restaurants	2017	--	
+Buick	2	Cars	2017	2016	
+  Buick Cascada	1	Cars	2016	--	
+Bumble	1	Social Media	2019	--	
+Burger King	5	Fast Food	2019	1983	
+Busch Beer	1	Beer	2017	--	
+Butterfinger	2	Candy	2016	2014	
+  Butterfinger Cups	1		2014	--	
+Cabela's	1	Retail Stores	2021	--	
+Cadillac	13	Automobiles	2021	1993	
+  Cadillac ATS	1	Cars	2012	--	
+  Cadillac Catera	1	Automotive Industry	1997	--	
+  Cadillac Escalade	3	Cars	2006	1999	
+  Cadillac Lyriq	1	Electric Vehicles	2021	--	
+  Cadillac XLR	1	Cars	2005	--	
+California Milk Processor Board	2	Beverages	2004	1998	
+Calvin Klein	1	Apparel & Clothing	2013	--	
+  Calvin Klein Underwear	1	Fashion Apparel	2013	--	
+Cambell's Soup	2	Food	1988	--	
+CareerBuilder	13	Job Search	2012	2005	
+Carl's Jr.	1	Fast Food	2005	--	
+CarMax	3	Automobiles Sales	2014	2011	
+Carnival	1		2015	--	
+Cars.com	8	Internet Companies	2013	2008	
+Cash4Gold	1	Financial Services	2009	--	
+Casino Law Group	1		2014	--	
+Castrol	1	Oil & Gas	2009	--	
+Cat Chow	1	Pets	1993	--	
+CBS All Access	1	Online Streaming	2019	--	
+CBS Films	1	Movies	2019	--	
+Century 21	1	Real Estate	2012	--	
+Charles Schwab	6	Investments\Brokerage	2002	2000	
+Charlotte Credit Union	1		2015	--	
+Charmin	1		2004	--	
+Chase Bank	1	Banking	2012	--	
+  Chase Quickpay	1	Financial Services	2012	--	
+Cheerios	1	Cereal	2014	--	
+Cheetos	4	Snacks	2022	2009	
+  Cheetos Crunch Pop Mix	1	Snacks	2021	--	
+  Cheetos Popcorn	1	Snacks	2020	--	
+Chevrolet	26	Automobiles	2015	1983	
+  Chevrolet Camaro	1	Automobiles	1984	--	
+  Chevrolet Cavalier	1	Automobiles	1984	--	
+  Chevrolet Chevette	1	Automobiles	1984	--	
+  Chevrolet Colorado	4	Trucks	2015	--	
+  Chevrolet Cruze	2	Cars	2011	--	
+  Chevrolet Eurosport	1	Automobiles	1984	--	
+  Chevrolet S Series	1	Trucks	1994	--	
+  Chevrolet S-10 Blazer	1	Automobiles	1984	--	
+  Chevrolet Silverado	3	Trucks	2014	2011	
+  Chevrolet Sonic	1	Cars	2012	--	
+  Chevrolet Volt	1	Cars	2011	--	
+  Chevy HHR	1	Cars	2007	--	
+Chipotle	1	Fast Food	2021	--	
+Chobani	1	Yogurt	2014	--	
+Chrysler	9	Automotive Industry	2014	1990	
+  Chrysler 200	1	Automobiles	2014	--	
+Cialis	1	Erectile Dysfunction	2005	--	
+Circuit City	1	Retail Stores	2002	--	
+Citibank	1	Banking	1998	--	
+Clash of Clans	1	Computer Games	2015	--	
+Coke	38	Cola Drinks	2020	1980	
+  Coca-Cola	28	Cola Drinks	2020	1980	
+    Coca Cola Energy	1	Energy Drinks	2020	--	
+  Coke Zero	1	Cola Drinks	2009	--	
+  Diet Coke	9	Diet Soft Drinks	2018	1984	
+Colgate	2	Health & Beauty	2019	2016	
+  Colgate Total	1	Toothpaste	2019	--	
+CompUSA	1	Retail Stores	2002	--	
+Computer.com	1	Internet Companies	2000	--	
+ComputerLand	3	Technology	1985	1984	
+Contel	1		1987	--	
+Continental Insurance	1	Insurance	1980	--	
+Converse	1	Shoes	1994	--	
+  Converse React	1	Shoes	1994	--	
+Coopers Lybrand	1		1993	--	
+Coors Light	1	Light Beer	1996	--	
+Coty	1	Health & Beauty	1993	--	
+Cracker Jack	1	Snacks	1999	--	
+Cullinet	1	Technology	1985	--	
+Cutwater Spirits	1	Alcoholic Beverages	2021	--	
+Dairy Farmers of America	3	Food & Beverage	1987	1985	
+Dashlane	1	Computer Software	2020	--	
+David Beckham Bodywear	1	Apparel & Clothing	2012	--	
+Dawn	1	Soap	2021	--	
+Death Wish Coffee	1	Coffee	2016	--	
+Dell XPS	1	Computers	2008	--	
+Delta	5	Airline Industry	1990	1988	
+Denny's	5	Restaurants	2010	2009	
+Denorex	3	Shampoo	1988	1984	
+Dentyne	1	Gum\Breath Mints	2001	--	
+Devour	2	Food	2019	2017	
+Dexcom	1	Technology	2021	--	
+Dirt Devil	2	Appliances	1997	--	
+Discover Card	4	Credit Cards	2020	1986	
+  Discover It Card	1	Credit Cards	2015	--	
+Discovery Cove	1		2000	--	
+Disney World	2	Theme Parks	2006	2000	
+Disney+	4	Online Streaming	2021	2020	
+Dockers	4	Pants	2010	1991	
+Dodge	18	Automobiles	2018	1987	
+  Dodge Caravan	1	Minivans	2000	--	
+  Dodge Charger	1	Sports Cars	2010	--	
+  Dodge Dakota	3	Trucks	2000	1987	
+  Dodge Daytona	1	Cars	1987	--	
+  Dodge Intrepid	1	Cars	2000	--	
+  Dodge Neon	3	Cars	1996	1994	
+  Dodge Ram	2	Trucks	2013	2003	
+  Dodge Spirit	2	Cars	1989	--	
+  Dodge Stratus	1	Cars	1995	--	
+Dollar Shave Club	1	Shaving	2016	--	
+Domino's Pizza	1	Pizza	1984	--	
+DoorDash	1	Food Delivery	2021	--	
+Doritos	41	Potato Chips	2022	1989	
+  Doritos 3D	1	Potato Chips	2021	--	
+Dove	3	Soap	2015	2006	
+  Dove Men+Care	2	Soap	2015	2010	
+Dow	1		1990	--	
+Dr Pepper	2	Soft Drinks	2010	2001	
+  Diet Dr Pepper	1	Soft Drinks	2001	--	
+  Dr Pepper Cherry	1	Soft Drinks	2010	--	
+Dr. Squatch	1	Soap	2021	--	
+DraftKings	1		2021	--	
+DreamWorks	3		2014	2009	
+Dristan	1	Pharmaceutical	1987	--	
+Dry Idea	1	Deodorant	1986	--	
+Dunkin' Donuts	2	Fast Food	2005	--	
+Duraliner	1	Automotive Industry	1986	--	
+E!	1	Telecommunications	2015	--	
+E*Trade	23	Investments\Brokerage	2021	1999	
+e1040.com	1	Internet Companies	2000	--	
+EA Sports	1	Computer Games	2002	--	
+Eastern Air Lines	2	Airline Industry	1985	1984	
+EDS	2	Technology	2001	2000	
+Emerald Nuts	4	Nuts	2010	2005	
+Energizer	2		1988	1987	
+Epidemic.com	1	Internet Companies	2000	--	
+ESPN	4	Media	2006	2003	
+  ESPN Mobile	2	Media	2006	--	
+e-stamp.com	1	Internet Companies	2000	--	
+Expedia	1		2004	--	
+Expensify	1	Accounting	2019	--	
+Exxon	1	Oil & Gas	1990	--	
+Fabletics	1	Apparel & Clothing	2020	--	
+Facebook	1	Social Media	2020	--	
+Febreze	3	Cleaning Supplies	2018	2016	
+FedEx	32	Mail\Shipping	2008	1987	
+Fiat Automobiles	2	Automobiles	2015	2012	
+  Fiat 500 Abarth	1	Sports Cars	2012	--	
+  Fiat 500X	1	Cars	2015	--	
+Fidelity Investments	1	Investments\Brokerage	2006	--	
+Fiji Water	1	Water	2017	--	
+Fila	1	Sports Apparel	1997	--	
+First Union	2		1999	--	
+FirstBank	1	Banking	2016	--	
+Fitbit	1	Portable Electronics	2016	--	
+Fiverr	1	Freelancers	2021	--	
+FLO TV	1	Online Streaming	2010	--	
+Focus on the Family	1		2010	--	
+Footlocker	2	Shoes	2007	1987	
+Ford	15	Automobiles	2021	1980	
+  Ford Escape Hybrid	1	SUVs	2006	--	
+  Ford Explorer	2	SUVs	1995	1993	
+  Ford F-Series	4	Trucks	2000	1980	
+  Ford Ranger	1	Trucks	2001	--	
+  Ford Taurus	1	Cars	2000	--	
+  Ford Tempo	1	Cars	1985	--	
+  Ford Thunderbird	3	Cars	1985	1983	
+  Mustang Convertible	1	Automobiles	2005	--	
+Foster's	1	Beer	2002	--	
+Frosted Mini-Wheats	2	Cereal	2002	--	
+FTD	2	Flowers	1989	--	
+Fujitsu	1	Technology	2001	--	
+Game of War	1	Computer Games	2015	--	
+Garmin	2	Computers	2008	2007	
+Gateway	1	Computers	2002	--	
+Gatorade	7	Sports Drinks	2010	2002	
+Geico	3	Insurance	2015	2012	
+General Electric	3	Energy	2012	2002	
+General Tire	1	Tires	1999	--	
+Genesee	2	Alcoholic Beverages	1984	1983	
+Genesis	1	Cars	2020	--	
+  Genesis GV80	1	SUVs	2020	--	
+Geo Prizm	1		1993	--	
+George Foreman Grill	2	Appliances	2003	2001	
+Gildan Activewear	1	Sports Apparel	2013	--	
+Gillette	19	Shaving	2006	1980	
+  Gillette Mach3	2	Shaving	2004	1999	
+  Gillette Sensor	3	Shaving	1992	1991	
+GMC	4	Automobiles	2020	2000	
+  GMC Hummer EV	1	SUVs	2020	--	
+  GMC Sierra	1	Trucks	2001	--	
+  GMC Yukon Hybrid	1	SUVs	2008	--	
+  GMC Yukon XL	1	SUVs	2000	--	
+GoDaddy	16	Internet Companies	2017	2005	
+Golden Nugget	1	Travel Industry	1985	--	
+Goodyear	6	Tires	2002	1987	
+Google Assistant	1	Virtual Assistants	2020	--	
+Google Nest	1	Technology	2017	--	
+  Google Home	1	Audio & Sound	2017	--	
+GoPro	1	Technology	2014	--	
+Gran Turismo 3	2		2002	--	
+Groupon	2	Online Retailers	2018	2011	
+GTE	10	Telecommunications	1993	1986	
+Guaranteed Rate	1	Mortgages	2021	--	
+Guinness	1	Beer	2021	--	
+H&M Men's Loungewear	1	Fashion Apparel	2014	--	
+H&R Block	7	Taxes	2017	2002	
+Hanes	1	Under Garments	2003	--	
+Hard Rock Hotel & Casino	1	Hotels	2020	--	
+Hardee's	1	Fast Food	2000	--	
+HBO	3	Media Providers	2019	1995	
+H-E-B	1	Retail Stores	2020	--	
+Hellmann's	2	Food	2022	2021	
+Heroes Charge	1	Computer Games	2015	--	
+Hershey's Kisses	1	Candy	2002	--	
+Hertz	4	Rental Cars	1991	1980	
+Hint Water	1	Water	2020	--	
+History Channel	1	TV Shows	2013	--	
+Holiday Inn	6	Hotels	1998	1982	
+Home Depot	1	Home Improvement	2002	--	
+HomeAway	2	Internet Companies	2011	2010	
+Honda	15		2017	1987	
+  Honda Accord	1	Cars	1987	--	
+  Honda Civic del Sol	1	Cars	1995	--	
+  Honda Civic Hybrid	1	Cars	2006	--	
+  Honda Crosstour	1	SUVs	2010	--	
+  Honda CR-V	3	SUVs	2017	1997	
+  Honda Hurricane	1		1987	--	
+  Honda Odyssey	3	Automobiles	1999	1995	
+  Honda Prelude	1	Cars	1993	--	
+  Honda Ridgeline	3	Trucks	2016	2005	
+Hormel	2	Food & Beverage	1998	--	
+Huggies	1	Hygiene	2021	--	
+Hulu	5	Online Streaming	2020	2012	
+Hummer	1	SUVs	2006	--	
+Hyatt	1	Hotels	1985	--	
+Hyundai	25	Cars	2022	1989	
+  Hyundai Elantra	5	Automobiles	2016	2011	
+  Hyundai Excel	1	Cars	1989	--	
+  Hyundai Genesis	6	Cars	2016	2008	
+  Hyundai Santa Fe	1	Automobiles	2013	--	
+  Hyundai Sonata	6	Cars	2013	1989	
+IBM	15	Computers	2021	1980	
+Ice Breakers	1	Gum\Breath Mints	2008	--	
+Illumination Entertainment	2	Movies	2020	2016	
+Imodium A D	1	Pharmaceutical	1995	--	
+Indeed	1	Job Search	2021	--	
+Infoseek	1	Internet Companies	1998	--	
+Inspiration4	1	Travel Industry	2021	--	
+Intel Pentium II	2	Computers	1998	--	
+International Food Information Council	1	Food & Beverage	1985	--	
+Invesco	1	Financial Services	2001	--	
+Iomega	1	Computers	1998	--	
+Isuzu Rodeo	2	SUVs	1994	1992	
+Isuzu Trooper	2	SUVs	1995	1994	
+Its A 10 Haircare	1	Health & Beauty	2017	--	
+ITT	1	Technology	1985	--	
+iTunes	1	Media Providers	2005	--	
+Jack in the Box	6	Fast Food	2018	2005	
+Jaguar	2	Automobiles	2014	1993	
+  Jaguar F-TYPE	1	Sports Cars	2014	--	
+Janus Funds	1		1997	--	
+Jeep	16	SUVs	2021	1980	
+  Jeep Cherokee	2	SUVs	2014	1980	
+  Jeep Eagle Premier	2	Automobiles	1988	--	
+  Jeep Gladiator	1	Trucks	2020	--	
+  Jeep Renegade	1	SUVs	2015	--	
+JetBlue	1	Airline Industry	2005	--	
+Jimmy John's	1	Fast Food	2021	--	
+John Hancock	6	Insurance	1988	1986	
+Johnson Controls	3	Automotive Industry	1986	1985	
+Jolly Rancher	1	Candy	2002	--	
+  Jolly Rancher Fruit Chews	1	Candy	2002	--	
+Jublia	2	Health & Beauty	2016	2015	
+Just For Feet	1	Shoes	1999	--	
+Kenmore	1	Appliances	1989	--	
+KFC	3	Fast Food	2017	2002	
+Kforce	1	Job Search	2000	--	
+kgb	1	Search Engines	2010	--	
+Kia Motors	13	Cars	2020	2000	
+  Kia Forte	1	Automobiles	2013	--	
+  Kia K900	1	Cars	2014	--	
+  Kia Niro	1	Cars	2017	--	
+  Kia Optima	3	Cars	2016	2011	
+  Kia Seltos	1	SUVs	2020	--	
+  Kia Sorento	3	Cars	2015	2010	
+  Kia Sportage	1	SUVs	2000	--	
+  Kia Stinger	1	Cars	2018	--	
+  Kia Telluride	1	SUVs	2019	--	
+Kings Hawaiian	1	Food	2017	--	
+Klarna	1	Financial Services	2021	--	
+Kraft	6	Food	2020	2014	
+  Heinz	3	Food	2020	2014	
+    Heinz Ketchup	2	Food	2016	2014	
+LA Gear	1	Shoes	1991	--	
+LA	1	Beer	1985	--	
+Lamisil	2	Pain Relief	2001	2000	
+Land Rover	2	Automobiles	2006	1999	
+Last Minute Travel	1	Internet Companies	2000	--	
+Late Show with David Letterman	1	TV Shows	2010	--	
+Lay's Potato Chips	6	Potato Chips	2005	1993	
+Lee	5	Jeans	1995	1993	
+Levi's Jeans	3	Jeans	2003	2001	
+  Flyweight Jeans	1	Jeans	2002	--	
+Lexus	6	Automobiles	2018	2005	
+  Lexus GS	1	Cars	2012	--	
+  Lexus LS 500 F SPORT	1	Cars	2018	--	
+  Lexus NX	1	Cars	2015	--	
+  Lexus RC 350	1	Cars	2015	--	
+LG	1	Technology	2016	--	
+Lifeminders.com	1	Internet Companies	2000	--	
+LIFEWTR	1	Water	2017	--	
+Lincoln	6	Automobiles	2013	1995	
+  Lincoln Continental	1	Automotive Industry	1995	--	
+  Lincoln LS	3	Cars	2000	--	
+  Lincoln MKZ	1	Cars	2013	--	
+Lionsgate	1	Movies	2015	--	
+Lipton	5	Beverages	2011	1994	
+  Lipton Brisk	2	Food & Beverage	2002	1998	
+Little Caesars	1	Pizza	2020	--	
+Loctite Glue	1		2015	--	
+Logitech	1	Computer Hardware	2021	--	
+LucasFilm	2	Movies	2018	2012	
+Luxottica	1	Health & Beauty	1997	--	
+M&M'S	11	Candy	2021	1998	
+  M&M'S Chocolate Bar	1	Candy	2019	--	
+Mail Boxes Etc	2	Mail\Shipping	1998	1996	
+Marmot	1	Apparel & Clothing	2016	--	
+Marvel Studios	13	Movies	2020	2010	
+Maserati Ghibli	1		2014	--	
+Master Lock	13	Appliances	1996	1980	
+MasterCard	11	Financial Services	2006	1996	
+Matt Brewing Company	1	Beer	1982	--	
+Maybelline	1	Cosmetics	2012	--	
+  Illegal Length Mascara	1	Cosmetics	2012	--	
+Mazda Protege	1		1993	--	
+MBNA	1	Credit Cards	2005	--	
+McDonald's	44	Fast Food	2022	1980	
+MCI Communications	2	Telecommunications	1997	--	
+Mercari	1	Online Retailers	2021	--	
+Mercedes-Benz	8	Automobiles	2019	1982	
+  Mercedes-Benz AMG GT	2	Sports Cars	2017	2015	
+  Mercedes-Benz CLA-Class	2	Cars	2019	2013	
+Merrill Lynch	5	Investments\Brokerage	1992	1980	
+MetLife	1	Insurance	2012	--	
+Metromile	1	Auto Insurance	2018	--	
+MGM	3	Entertainment	2012	2001	
+Michelin	6	Tires	2017	1983	
+Michelob	24	Beer	2022	1980	
+  Michelob Dry	1	Beer	1989	--	
+  Michelob Light	8	Light Beer	2002	1980	
+  Michelob Ultra	15	Light Beer	2022	1982	
+    Michelob Ultra Organic Seltzer	2	Alcoholic Beverages	2022	2021	
+    Michelob Ultra Pure Gold	2	Light Beer	2020	2019	
+Microsoft	6	Technology	2020	2000	
+MicroStrategy	2	Technology	2000	--	
+Miller Genuine Draft	2	Beer	2002	1980	
+  Miller High Life	2	Beer	2002	1980	
+Miller Lite	11	Beer	2005	1980	
+Minolta	3	Technology	1986	1985	
+Mint Mobile	1	Mobile	2019	--	
+MiO	1	Beverages	2013	--	
+  MiO FIT	1	Sports Drinks	2013	--	
+Miracle-Gro	1	Lawn Care	2021	--	
+Mitsubishi	2	Automotive Industry	2004	1999	
+  Mitsubishi Montero Sport	1	Automobiles	1999	--	
+MLife	2	Telecommunications	2002	--	
+Mobile Strike	2	Entertainment	2017	2016	
+Monster Products	1	Audio & Sound	2018	--	
+Monster.com	7	Internet Companies	2010	1999	
+mophie	1	Technology	2015	--	
+Motel 6	1	Hotels	2001	--	
+Motorola	5	Mobile Phones	2011	2000	
+Mountain Dew	9	Soft Drinks	2021	1999	
+  Mountain Dew Zero Sugar	1	Soft Drinks	2020	--	
+  Mtn Dew Major Melon	1	Soft Drinks	2021	--	
+Mr. Clean	1	Cleaning Supplies	2017	--	
+MTV	1	Entertainment	2001	--	
+Mylanta	1	Health & Beauty	1991	--	
+NAPA Auto Parts	2	Auto Parts & Accessories	2013	2000	
+Napster	1	Computer Software	2005	--	
+NASCAR	1	Sports Leagues	2015	--	
+National Car Rental	2	Rental Cars	2000	1999	
+National Geographic	1	Media Providers	2017	--	
+National Pork Producers Council	2	Food	1996	1995	
+Nationwide	4	Insurance	2007	1984	
+NBC	21	Media Providers	2018	1983	
+  Oxygen	1	Entertainment	2000	--	
+  The Voice	1	TV Shows	2018	--	
+Netflix	3	Online Streaming	2019	2017	
+Netpliance	1	Internet Companies	2000	--	
+New Line Cinema	3	Movies	1999	1998	
+New York Life	4	Insurance	2020	1987	
+NFL	21	Sports Leagues	2021	1999	
+Nicoderm	2	Health & Beauty	1992	1983	
+Nintendo Switch	2	Entertainment	2021	2017	
+Nissan	17	Automobiles	2022	1985	
+  Nissan Maxima	2	Cars	2005	1989	
+  Nissan Murano	1	Cars	2006	--	
+  Nissan Pathfinder	2	SUVs	1996	1990	
+  Nissan Sentra	1	Cars	1985	--	
+  Nissan Turbo Z	2	Automobiles	1990	1985	
+No Fear	1	Apparel & Clothing	1995	--	
+Northrop Grumman	1		2015	--	
+Northwestern Mutual	11	Insurance	1986	1980	
+Norwegian Cruise Line	3	Cruiselines	2019	1994	
+Nuprin	1	Health & Beauty	1992	--	
+Nuveen	1		2000	--	
+Oatly	1	Beverages	2021	--	
+Office Depot	1		2002	--	
+Oikos	5	Yogurt	2022	2012	
+  Oikos Pro	2	Beverages	2022	2021	
+Olay	2	Beauty	2020	2019	
+Old Milwaukee	2	Beer	1985	1984	
+Oldsmobile	3	Cars	2000	1982	
+Olympus	2	Cameras	2005	1980	
+OnMoney.com	1	Financial Services	2000	--	
+Oracle	1		1998	--	
+OurBeginning.com	1	Internet Companies	2000	--	
+Outback Steakhouse	1	Restaurants	2006	--	
+Outpost.com	2	Internet Companies	1998	--	
+Owens Corning	2	Home Improvement	1996	1980	
+Panasonic	4	Technology	1991	--	
+Papa John's	1	Pizza	2010	--	
+Paramount Pictures	30	Movies	2020	2001	
+Paramount+	3	Online Streaming	2021	--	
+PayPal	1	Financial Services	2016	--	
+Pedigree Petfoods	1	Pets	2009	--	
+Pepcid AC	3	Pain Relief	2001	1996	
+Pepsi Brands	80	Cola Drinks	2020	1987	
+  Crystal Pepsi	2	Soft Drinks	1993	--	
+  Diet Pepsi	16	Cola Drinks	2006	1987	
+  Pepsi Next	1	Cola Drinks	2013	--	
+  Pepsi ONE	2	Cola Drinks	2000	1999	
+  Pepsi Zero Sugar	6	Cola Drinks	2020	2008	
+  Pepsi	53	Cola Drinks	2019	1990	
+Persil Proclean	4	Cleaning Supplies	2019	2016	
+Pets.com	1	Pets	2000	--	
+Philip Morris	1		2003	--	
+Philips	3	Technology	1999	1987	
+Pixar	3	Movies	2019	2008	
+Pizza Hut	13	Pizza	2021	1996	
+Planet Fitness	1		2022	--	
+Planters	4	Nuts	2022	2008	
+Plymouth	2	Automobiles	1996	--	
+  Plymouth Breeze	1	Cars	1996	--	
+Pokemon	1	Entertainment	2016	--	
+Pontiac	12	Automobiles	2002	1988	
+  Pontiac Aztek	2	SUVs	2002	2001	
+  Pontiac Bonneville	1	Cars	2001	--	
+  Pontiac Firebird TransAm	1	Sports Cars	1998	--	
+  Pontiac Grand Prix	7	Cars	2001	1988	
+  Pontiac Trans Sport	1	Automobiles	1990	--	
+Pop Tarts	1	Snacks	2020	--	
+Porsche	2	Automotive Industry	2020	1997	
+  Porsche Boxster	1	Sports Cars	1997	--	
+  Porsche Taycan	1	Cars	2020	--	
+Presidente	1	Beer	2020	--	
+Primestar	3	Satellite TV	1998	1995	
+Principal Financial Group	1	Insurance	1996	--	
+Pringles	4	Potato Chips	2021	2018	
+Prodigy	2		1993	--	
+Progressive	1	Insurance	2020	--	
+Prudential	3	Insurance	2012	1993	
+Purina	1	Pets	1984	--	
+Quaker State	3	Oil & Gas	1995	1980	
+Quibi	1	Online Streaming	2020	--	
+QuickBooks	2		2016	2014	
+Quiznos	3	Fast Food	2005	2002	
+RadioShack	3	Electronics Stores	2014	1982	
+Rakuten	1	Online Retailers	2020	--	
+Ram Trucks	1	Trucks	2018	--	
+Rayovac	2	Energy	1994	--	
+  Rayovac Renewal	2	Energy	1994	--	
+RC Cola	1	Cola Drinks	1986	--	
+RCA	1	Televisions	1993	--	
+Red Bull	1	Energy Drinks	2014	--	
+Reebok	12	Sports Apparel	2015	1991	
+Reese's	1	Candy	2020	--	
+  Reese's Take 5	1	Candy	2020	--	
+Relativity Media	1	Movies	2012	--	
+Rexona	2	Deodorant	2006	2005	
+  Degree (deodorant)	2	Deodorant	2006	2005	
+Right Guard	4	Deodorant	1986	1980	
+Robinhood	1	Investments\Brokerage	2021	--	
+Roche	1	Pharmaceutical	2002	--	
+Rocket Mortgage	5	Mortgages	2021	2016	
+Rockstar Energy	1	Energy Drinks	2021	--	
+Rold Gold	1	Snacks	1995	--	
+Royal Caribbean International	1	Travel Industry	1991	--	
+Ruffles	1	Snacks	2002	--	
+  Ruffles 3Ds	1	Snacks	2002	--	
+Ryder	1		1985	--	
+Sabra	1	Dips	2020	--	
+Salesforce	2	Computer Software	2011	--	
+SalesGenie com	2	Internet Companies	2008	--	
+Sam Adams	1	Beer	2021	--	
+Sam's Club	1	Retail Stores	2022	--	
+Samsung Galaxy	3	Mobile Phones	2017	2012	
+  Samsung Galaxy Note	1	Mobile Phones	2012	--	
+Saucony	1	Shoes	2020	--	
+Schaefer Beer	2	Beer	1982	--	
+Schick	1	Shaving	2016	--	
+Scotts	1	Lawn Care	2021	--	
+Secret	1	Deodorant	2020	--	
+Selsun Blue	2	Soap	1999	1997	
+Sentry Insurance	1	Insurance	1982	--	
+Serta	1		1993	--	
+ServiStar	1	Home & Garden	1993	--	
+Sharp	7	Technology	1985	1983	
+Sharpie	1	Office Supplies	2006	--	
+Shearson	4	Financial Services	1988	1982	
+Sheraton	3	Hotels	1987	1980	
+Shock Top	1	Beer	2016	--	
+Showtime	1	Entertainment	2016	--	
+Sierra Mist	5	Soft Drinks	2007	2003	
+Silestone	1	Home Improvement	2005	--	
+SimpliSafe	1	Home Security	2019	--	
+Skechers GoRun	1	Shoes	2012	--	
+Skechers Max Cushioning	1	Shoes	2021	--	
+Skechers Relax Fit	1	Shoes	2015	--	
+Skechers Shape-Ups	1	Shoes	2010	--	
+Skittles	3	Candy	2017	2015	
+Skydance Media	2	Movies	2020	2017	
+Slice	2	Soft Drinks	1987	--	
+SlimFast	1	Weight Loss	2006	--	
+Snickers	10	Candy	2020	1996	
+SoBe	2	Beverages	2009	2008	
+  SoBe Life Water	2	Beverages	2009	2008	
+SodaStream	3	Water	2020	2013	
+SoFi	1	Loans	2016	--	
+Soloflex	3	Health & Beauty	1995	1985	
+Sonos	1	Audio & Sound	2014	--	
+Sony Pictures	13	Movies	2017	1998	
+  Sony Pictures MPG	7	Movies	2014	2001	
+    Columbia Pictures	7	Movies	2014	2001	
+  TriStar Pictures	1	Movies	1998	--	
+Southwest Airlines	1	Airline Industry	2001	--	
+Speed Stick	1	Deodorant	2013	--	
+Sprint	13	Mobile Phones	2019	1987	
+Sprite	1	Soft Drinks	2017	--	
+Squarespace	7	Computer Software	2021	2014	
+Staples	3	Retail Stores	2005	2004	
+State Farm	1	Insurance	2021	--	
+State Farm	2	Insurance	2020	2006	
+Stella Artois	4	Beer	2021	2011	
+Stonyfield Farm	1	Yogurt	2012	--	
+Stroh's Brewery Company	9	Beer	1988	1980	
+Subaru Impreza	7	Automobiles	1993	--	
+Subway	12	Fast Food	2015	1993	
+Sudafed	1	Health & Beauty	1992	--	
+Sunsilk	1	Hygiene	2008	--	
+SunTrust	1	Banking	2016	--	
+Surge	1	Soft Drinks	1997	--	
+Suzuki	1	Automobiles	2012	--	
+Swiffer	1	Cleaning Supplies	2021	--	
+Tabasco	3	Food	2005	1998	
+Taco Bell	13	Fast Food	2019	1995	
+Tandy	2		1985	1984	
+Target	1	Retail Stores	2001	--	
+TaxACT	1	Taxes	2012	--	
+Teleflora	2	Flowers	2012	2010	
+The Formation World Tour	1	Entertainment	2016	--	
+The Hartford	1	Insurance	1999	--	
+The Travelers Companies	3	Insurance	1989	1987	
+The Washington Post	1	Newspapers	2019	--	
+Tide	13	Cleaning Supplies	2021	2008	
+  Tide to Go	1	Cleaning Supplies	2008	--	
+Timex	1	Technology	1986	--	
+T-Mobile	22	Mobile Phones	2022	2008	
+Tommy Hilfiger	1	Apparel & Clothing	1998	--	
+Top Games US	1	Mobile Games	2017	--	
+Tostitos	3	Snacks	2004	1997	
+Touchstone Pictures	1	Movies	1998	--	
+Tourism Australia	1	Travel Industry	2018	--	
+Toyota	24	Automobiles	2021	1982	
+  Toyota 4Runner	1	SUVs	1996	--	
+  Toyota Avalon	1	Automotive Industry	1995	--	
+  Toyota Camry	7	Cars	2015	1989	
+  Toyota Celica	2	Automobiles	1990	1982	
+  Toyota Corolla	1	Cars	2008	--	
+  Toyota Highlander	2	SUVs	2020	2014	
+  Toyota Prius	2	Cars	2016	2005	
+  Toyota RAV4	2	SUVs	2019	2013	
+  Toyota Supra	1	Sports Cars	2019	--	
+  Toyota Tacoma	1	Trucks	2006	--	
+  Toyota Tundra	2	Trucks	2009	2007	
+  Toyota	1	Cars	2009	--	
+Trident	1	Gum\Breath Mints	2003	--	
+Tropicana	1	Beverages	2000	--	
+truTV	1	Entertainment	2010	--	
+TurboTax	12	Taxes	2021	2014	
+  TurboTax Live	2	Taxes	2021	--	
+Turkish Airlines	4	Airline Industry	2020	2017	
+Tylenol	5	Pain Relief	1997	1985	
+Uber Eats	1	Food Delivery	2021	--	
+Under Armour	1	Sports Apparel	2008	--	
+United Way	6		1986	1980	
+Universal Orlando	2	Theme Parks	2018	2002	
+US Airways	3	Airline Industry	1993	1982	
+US Census	1		2000	--	
+US Military	3		1986	1984	
+  US Army	1		1984	--	
+  US Marines	2		1986	1985	
+USA Network	2	Media Providers	2018	2015	
+USDA	1	Food & Beverage	1987	--	
+Van Heusen	3	Fashion Apparel	2007	1987	
+Vault	1	Soft Drinks	2006	--	
+Verizon	8	Mobile Phones	2021	2001	
+Victoria's Secret	3	Under Garments	2015	1999	
+VISA Check Card	6	Debit Cards	2005	1997	
+VitaminWater	1	Energy Drinks	2008	--	
+Vizio	1	Televisions	2010	--	
+Volkswagen	17	Automobiles	2014	1980	
+  Vokswagen GTI	1	Cars	2001	--	
+  Volkswagen Beetle	2	Cars	2013	2011	
+  Volkswagen Golf	1	Cars	1985	--	
+  Volkswagen Jetta	5	Cars	2001	1988	
+  Volkswagen Passat	1	Cars	2011	--	
+Volvo Trucks	3	Trucks	2000	1998	
+Vroom	1	Automobiles Sales	2021	--	
+Wall Street Journal	1	Entertainment	2000	--	
+Walmart	2	Retail Stores	2020	2019	
+Water.org	1	Charity	2018	--	
+Wealthsimple	1	Financial Services	2017	--	
+WeatherTech	11	Auto Parts & Accessories	2021	2014	
+  WeatherTech CupFone	1	Mobile Phone Equipment	2019	--	
+WebMD	1	Internet Companies	2000	--	
+Weight Watchers	1	Health & Beauty	2015	--	
+Wendy's	6	Fast Food	2018	1982	
+Westin	2	Hotels	2006	1998	
+Wheaties	1	Cereal	1996	--	
+Wilson Sporting Goods	1	Retail Stores	1995	--	
+Wix.com	5	Computer Software	2019	2015	
+Wonderful Pistachios	4	Nuts	2017	2013	
+World Baseball Classic	1	Sports Leagues	2006	--	
+World of Tanks	2	Computer Games	2017	--	
+WWE	3	Sports Leagues	2020	1999	
+Yahoo!	5	Internet Companies	2002	1999	
+Yamaha Motor	1	Automotive Industry	1996	--	
+Yellow Pages	1		1999	--	
+Yellow Tail	3	Wine	2019	2017	
+YouTube	3	Search Engines	2021	2020	
+  YouTube TV	1	TV Providers	2020	--	
+Zales	5	Jewelry	2001	--
