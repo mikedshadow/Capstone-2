@@ -1,0 +1,19 @@
+247 2010 Boost Mobile - S
+350 2015 Sprint - SFTBY
+351 2015 TMobile - DTEGY
+352 2015 TMobile - DTEGY
+386 2016 TMobile - DTEGY
+387 2016 TMobile - DTEGY
+423 2017 Sprint - SFTBY
+424 2017 TMobile - DTEGY
+425 2017 TMobile - DTEGY
+426 2017 TMobile - DTEGY
+427 2017 TMobile - DTEGY
+500 2018 Sprint - SFTBY
+501 2018 Verizon Wireless - VZ
+502 2018 Verizon Wireless - VZ
+503 2018 TMobile - DTEGY
+542 2019 TMobile - DTEGY
+543 2019 TMobile - DTEGY
+544 2019 TMobile - DTEGY
+545 2019 TMobile - DTEGY

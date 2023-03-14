@@ -1,0 +1,58 @@
+7 1982 McDonald's - MCD
+12 1988 Doritos tortilla chips - PEP
+17 1993 McDonald's - MCD
+28 1996 McDonald's - MCD
+33 1997 Eggo - K
+34 1997 Lays - PEP
+35 1997 Lays - PEP
+49 1998 Doritos - PEP
+50 1998 Hormel - HRL
+51 1998 Tabasco Sauce - Private
+53 1998 Pizza Hut - YUM
+76 1999 Doritos - PEP
+78 1999 Pizza Hut - YUM
+88 2000 M&M's - Private (Mars, Inc.)
+126 2001 George Foreman Grill - Spectrum Brands Holdings, Inc. (SPB)
+137 2002 Lipton Brisk - UL (Unilever)
+163 2004 Lay's - PEP
+216 2009 Doritos - PEP
+217 2009 Doritos - PEP
+222 2009 Denny's - DENN
+229 2010 Snickers - Private (Mars, Inc.)
+242 2010 Doritos - PEP
+243 2010 Doritos - PEP
+244 2010 Doritos - PEP
+245 2010 Doritos - PEP
+248 2010 McDonald's - MCD
+274 2011 Doritos - PEP
+275 2011 Doritos - PEP
+281 2012 M&M's - Private (Mars, Inc.)
+299 2013 Wonderful Pistachios - LKQ
+306 2014 Doritos - PEP
+313 2015 Skittles - Private (Mars, Inc.)
+314 2015 Snickers - Private (Mars, Inc.)
+339 2015 Avocados From Mexico - Private (Mexican Hass Avocado Importers Association)
+340 2015 Doritos - PEP
+341 2015 Doritos - PEP
+342 2015 McDonald's - MCD
+372 2016 Doritos - PEP
+373 2016 Doritos - PEP
+374 2016 Heinz - KHC
+375 2016 Skittles - Private (Mars, Inc.)
+410 2017 Buffalo Wild Wings - Private (Arby's Restaurant Group, Inc.)
+435 2018 M&M's - Private (Mars, Inc.)
+456 2018 Avocados From Mexico - Private (Mexican Hass Avocado Importers Association)
+457 2018 Jack in the Box - JACK
+458 2018 Kraft Foods - KHC
+459 2018 Pringles - KHC
+460 2018 Wendy's - WEN
+461 2018 Doritos and Mountain Dew - PEP
+515 2019 M&M's Chocolate Bar - Private (Mars, Inc.)
+530 2019 Avocados from Mexico - Private (Mexican Hass Avocado Importers Association)
+531 2019 Burger King - QSR
+532 2019 Flamin' Hot Doritos - PEP
+533 2019 Pringles - KHC
+558 2020 Doritos - PEP
+559 2020 Planters - KHC
+560 2020 PopTarts Pretzel - KHC
+561 2020 Pringles, Rick and Morty - KHC

@@ -1,0 +1,9 @@
+57 1998 NFL - none 
+79 1999 WWF - none 
+390 2016 NFL - none 
+475 2018 NBC - CMCSA
+476 2018 NBC - CMCSA
+477 2018 NFL - none 
+478 2018 NFL - none 
+479 2018 Telemundo - CMCSA
+535 2019 NFL centennial season - none 

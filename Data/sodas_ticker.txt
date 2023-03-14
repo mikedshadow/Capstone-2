@@ -1,0 +1,30 @@
+4 1979 CocaCola - KO
+16 1992 Pepsi - PEP
+36 1997 Pepsi - PEP
+55 1998 Pepsi - PEP
+56 1998 Pepsi - PEP
+128 2001 Pepsi - PEP
+129 2001 Pepsi - PEP
+130 2001 Pepsi - PEP
+139 2002 Pepsi - PEP
+140 2002 Pepsi - PEP
+166 2004 Pepsi - PEP
+167 2004 Pepsi - PEP
+181 2005 Diet Pepsi - PEP
+199 2008 CocaCola - KO
+200 2008 SoBe - PEP
+219 2009 Pepsi - PEP
+220 2009 Pepsi - PEP
+221 2009 Pepsi - PEP
+250 2010 CocaCola - KO
+251 2010 CocaCola - KO
+276 2011 Pepsi - PEP
+291 2012 Pepsi - PEP
+308 2014 CocaCola - KO
+358 2015 CocaCola - KO
+389 2016 Mountain Dew Kickstart - PEP
+472 2018 CocaCola - KO
+473 2018 Diet Coke - KO
+474 2018 Pepsi - PEP
+513 2019 Bubly sparkling water - PEP
+514 2019 Pepsi - PEP

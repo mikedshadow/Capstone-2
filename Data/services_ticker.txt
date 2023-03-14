@@ -1,0 +1,32 @@
+15 1990 American Express - AXP
+42 1998 Visa - V
+52 1998 FedEx - FDX
+64 1999 MasterCard - MA
+77 1999 FedEx - FDX
+89 2000 Visa - V
+93 2000 FedEx - FDX
+94 2000 FedEx - FDX
+152 2003 FedEx - FDX
+165 2004 MasterCard - MA
+172 2005 MastercardIcons - MA
+327 2015 Discover - DFS
+345 2015 Esurance - ALL
+346 2015 Esurance - ALL
+347 2015 Nationwide - N/A
+348 2015 Nationwide - N/A
+354 2015 No More - N/A
+355 2015 Weight Watchers - WTW
+359 2015 TurboTax - INTU
+411 2017 TurboTax - INTU
+421 2017 Squarespace - N/A
+422 2017 Wix.com N/A - WIX
+429 2018 Turkish Airlines - TKHLY
+463 2018 ETrade - ETFC
+469 2018 Rocket Mortgage - RTK
+470 2018 Groupon - GRPN
+480 2018 Intuit - INTU
+481 2018 TurboTax - INTU
+482 2018 TurboTax - INTU
+494 2018 Tourism Australia - N/A
+495 2018 Universal Parks & Resorts - CMCSA
+534 2019 Amazon Echo - AMZN

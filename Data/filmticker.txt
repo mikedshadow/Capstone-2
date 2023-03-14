@@ -1,0 +1,141 @@
+27 1996 20th Century Fox - FOX
+30 1997 Universal Pictures - CMCSA
+31 1997 Universal Pictures - CMCSA
+32 1997 Paramount Pictures - VIAC
+43 1998 Touchstone Pictures - DIS
+44 1998 New Line Cinema - N/A 
+45 1998 Universal Pictures - CMCSA
+46 1998 Warner Bros. - TWX 
+47 1998 TriStar Pictures - SNE
+48 1998 New Line Cinema - N/A 
+66 1999 New Line Cinema - N/A 
+67 1999 New Line Cinema - N/A 
+68 1999 Universal Pictures - CMCSA
+69 1999 Columbia Pictures - SNE
+70 1999 Warner Bros. - TWX 
+71 1999 Walt Disney Pictures - DIS
+72 1999 Universal Pictures - CMCSA
+73 1999 Universal Pictures - CMCSA
+74 1999 Warner Bros. - TWX 
+75 1999 Warner Bros. - TWX 
+90 2000 DreamWorks Pictures - N/A 
+91 2000 Touchstone Pictures - DIS
+92 2000 20th Century Fox - FOX
+120 2001 Columbia Pictures - SNE
+121 2001 Warner Bros. - TWX 
+122 2001 MGM - N/A   
+123 2001 Warner Bros. - TWX 
+124 2001 Universal Pictures - CMCSA
+125 2001 Universal Pictures - CMCSA
+133 2002 New Line Cinema - N/A
+134 2002 New Line Cinema - N/A
+135 2002 Warner Bros. - TWX 
+136 2002 Columbia Pictures - SNE
+142 2003 Columbia Pictures - SNE
+143 2003 Columbia Pictures - SNE
+144 2003 Universal Pictures - CMCSA
+145 2003 Columbia Pictures - SNE
+146 2003 20th Century Fox - FOX
+147 2003 Warner Bros. - TWX 
+148 2003 Universal Pictures - CMCSA
+149 2003 Warner Bros. - TWX
+150 2003 Columbia Pictures - SNE
+151 2003 Warner Bros. - TWX
+156 2004 Columbia Pictures - SNE
+157 2004 Touchstone Pictures - DIS
+158 2004 Warner Bros. - TWX
+159 2004 Columbia Pictures - SNE
+160 2004 Touchstone Pictures - DIS
+161 2004 Warner Bros. - TWX
+162 2004 Universal Pictures - GE
+173 2005 Warner Bros. - TWX
+174 2005 MGM - MGM
+175 2005 Warner Bros. - TWX
+176 2005 Columbia Pictures - SNE
+177 2005 20th Century Fox - FOXA
+178 2005 Paramount Pictures - VIA
+179 2005 Walt Disney Pictures - DIS
+180 2005 Paramount Pictures - VIA
+183 2006 Warner Bros. - TWX
+184 2006 Walt Disney Pictures - DIS
+185 2006 Paramount Pictures - VIA
+186 2006 Walt Disney Pictures - DIS
+187 2006 Warner Bros. - TWX
+188 2006 New Line Cinema - TWX
+189 2006 Walt Disney Pictures - DIS
+190 2006 Warner Bros. - TWX
+194 2008 Paramount Pictures - VIA
+195 2008 20th Century Fox - NWSA
+196 2008 Walt Disney Pictures - DIS
+197 2008 Universal Pictures - GE
+198 2008 Columbia Pictures - SNE
+210 2009 Paramount Pictures - VIA
+211 2009 Universal Pictures - GE
+212 2009 DreamWorks Animation - DWA
+213 2009 Paramount Pictures - VIA
+214 2009 Paramount Pictures - VIA
+215 2009 Sony Pictures - SNE
+235 2010 Columbia Pictures - SNE
+236 2010 Paramount Pictures - VIA
+237 2010 Paramount Pictures - VIA
+238 2010 Walt Disney Pictures - DIS
+239 2010 Universal Pictures - CMCSA
+240 2010 Paramount Pictures - VIA
+241 2010 Universal Pictures - CMCSA
+269 2011 Paramount Pictures - VIA
+270 2011 Universal Pictures - CMCSA
+271 2011 Walt Disney Pictures - DIS
+272 2011 Paramount Pictures - VIA
+273 2011 Paramount Pictures - VIA
+286 2012 Relativity Media - N/A 
+287 2012 Walt Disney Pictures - DIS
+288 2012 Universal Pictures - CMCSA
+289 2012 Walt Disney Pictures - DIS
+290 2012 Universal Pictures - CMCSA
+295 2013 Universal Pictures - CMCSA
+296 2013 Walt Disney Pictures - DIS
+297 2013 Walt Disney Pictures - DIS
+298 2013 Paramount Pictures - VIA
+329 2015 Walt Disney Pictures - DIS
+330 2015 Summit Entertainment - LGF.A
+331 2015 Universal Pictures - CMCSA
+332 2015 Universal Pictures - CMCSA
+333 2015 Universal Pictures - CMCSA
+334	2015 Universal Pictures - CMCSA
+335	2015 Universal Pictures - CMCSA
+336 2015 Universal Pictures - CMCSA
+337 2015 Paramount Pictures - VIAC
+338 2015 Walt Disney Pictures - DIS
+376 2016 Paramount Pictures - VIAC
+377 2016 20th Century Fox - FOX
+378 2016 Walt Disney Pictures -DIS
+379 2016 20th Century Fox - FOX
+380 2016 Universal Pictures - CMCSA
+381 2016 Walt Disney Pictures - DIS
+382 2016 Universal Pictures - CMCSA
+383 2016 Paramount Pictures - VIAC
+384 2016 20th Century Fox - FOX
+404 2017 Paramount Pictures - VIAC
+405 2017 Universal Pictures - CMCSA
+406 2017 Paramount Pictures - VIAC
+407 2017 Marvel Studios - DIS
+408 2017 20th Century Fox - FOX
+409 2017 Walt Disney Pictures - DIS
+450 2018 Marvel Studios - DIS
+451 2018 Bad Robot Productions - N/A
+452 2018 Paramount Pictures - VIAC
+453 2018 Platinum Dunes - VIAC
+454 2018 Universal Pictures - CMCSA
+455 2018 Lucasfilm Ltd. - DIS
+522 2019 20th Century Fox - DIS
+523 2019 Marvel Studios - DIS
+524 2019 Marvel Studios - DIS
+525 2019 Universal Pictures - CMCSA
+526 2019 CBS Films - LGF.A
+527 2019 Pixar Animation Studios - DIS
+528 2019 Monkeypaw Productions - CMCSA
+529 2019 Nickelodeon Movies - VIAC
+555 2020 Universal Pictures - CMCSA
+556 2020 Universal Pictures - CMCSA
+557 2020 Walt Disney Pictures - DIS
+

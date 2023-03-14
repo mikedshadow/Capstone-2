@@ -1,0 +1,11 @@
+3 1976 Xerox - XRX
+5 1981 Polaroid - PRD
+6 1982 RadioShack - RSHCQ
+8 1984 Apple Inc. - AAPL
+9 1984 Atari - none 
+41 1998 Intel - INTC
+65 1999 Apple Inc. - AAPL
+182 2005 Olympus - OCPNY
+360 2015 Microsoft - MSFT
+412 2017 Intel - INTC
+483 2018 Amazon Echo - AMZN
